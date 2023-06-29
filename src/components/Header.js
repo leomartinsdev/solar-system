@@ -4,7 +4,7 @@ class Header extends React.Component {
   render() {
     return (
       <header>
-        <h1>
+        <h1 className="block text-center text-4xl font-mono">
           Sistema Solar
         </h1>
       </header>
