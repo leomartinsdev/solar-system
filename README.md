@@ -1,10 +1,8 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Solar System
+Meu primeiro projeto no módulo de Front-end. Nele, usei pela primeira vez o framework React para componentizar os elementos da página.
+Nele, é possível ver todos os planetas do sistema solar e uma lista de algumas missões especiais.
+
+## 💻 Acesse esse projeto:
+[Solar System](solar-system-lmdev.vercel.app)
+## 👨‍💻 Tecnologias usadas:
+Feito utilizando JavaScript, JSX, React, Componentes de Classe e HTML5. Estilizado com Tailwind e CSS3.
