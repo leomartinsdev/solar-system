@@ -1,4 +1,4 @@
-# Solar System
+# Solar System 🪐
 Meu primeiro projeto no módulo de Front-end. Nele, usei pela primeira vez o framework React para componentizar os elementos da página.
 <br>
 A proposta do projeto é mostrar todos os planetas do sistema solar e uma lista de algumas missões especiais.
